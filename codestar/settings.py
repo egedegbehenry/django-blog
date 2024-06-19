@@ -90,8 +90,8 @@ DATABASES = {
 
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://8000-egedegbehenr-djangoblog-onhqw882igg.ws-eu114.gitpod.io",
-    "https://*.herokuapp.com",
+    "https://*.codeanyapp.com",
+    "https://*.herokuapp.com"
 ]
 
 # Password validation
